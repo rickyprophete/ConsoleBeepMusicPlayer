@@ -1,0 +1,4 @@
+﻿  MPX_Prophete.cpp
+C:\Users\Ricky Prophete\CPlusPlusPrograms\MPX_Prophete\MPX_Prophete.cpp(130,37): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ricky Prophete\CPlusPlusPrograms\MPX_Prophete\MPX_Prophete.cpp(159,36): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  MPX_Prophete.vcxproj -> C:\Users\Ricky Prophete\CPlusPlusPrograms\MPX_Prophete\Debug\MPX_Prophete.exe
